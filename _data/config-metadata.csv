@@ -7,7 +7,7 @@ subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
-source,Source
+source,Number of Players
 identifier,Source Identifier,,
 type,Type,
 rights,Rights,
