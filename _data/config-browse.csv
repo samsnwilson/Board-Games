@@ -3,5 +3,5 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
-players,Number of Players,true,
+players,Number of Players,,,
 complexity,Complexity,,,Complexity
