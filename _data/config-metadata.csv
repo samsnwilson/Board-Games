@@ -8,7 +8,6 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
-players,Number of Players,true
 identifier,Source Identifier,,
 type,Type,
 format,Format,
