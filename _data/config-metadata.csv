@@ -16,3 +16,5 @@ rightsstatement,Rights Statement,,true
 players,Number of Players,
 complexity,Relative Complexity,
 playtime,Play Time,
+publisher,Publisher,
+link,BoardGameGeek Link,,true
