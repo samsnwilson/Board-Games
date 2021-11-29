@@ -1,7 +1,7 @@
 field,display_name,btn,hidden,sort_name
+players,Number of Players,,,
+complexity,Complexity,,,Complexity
 date,Date,,,Date
 creator,Creator,,,
 location,Country of Origin,,,
-players,Number of Players,,,
-complexity,Complexity,,,Complexity
 subject,,true
