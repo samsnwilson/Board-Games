@@ -14,6 +14,10 @@ credits: true
 
 ## About the Collection
 
+This site was designed as a Capstone project for my Information Infrastructures class. I thought about how it can be kind of tough to explain each game and their details when friends come over for a board game night. No one wants to sit through that, so I tried to think of a something a little more convenient. With a site like this, people can browse through at their leisure. Various pieces of data are included that might help someone narrow down their decision. You can filter by things like number of players, game mechanics, and complexity. The individual page has all the information you might find on the back of a box and also includes a link to its page on BoardGameGeek.com where a much more detailed description of the game can be found. 
+
+I had a lot of fun with this, so I hope the site makes sense and is easy to work with. Thank you!
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
