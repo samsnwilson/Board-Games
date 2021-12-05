@@ -8,7 +8,7 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Subjects
+## Browse Mechanics
 
-Use this word cloud visualization to browse terms and subjects.
+Use this word cloud visualization to see all the different mechanics used in the games. Click on one to see which games use that mechanic.
 Word size is determined by frequency and all words link to a corresponding collection search.
